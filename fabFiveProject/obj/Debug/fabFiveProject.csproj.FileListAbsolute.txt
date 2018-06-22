@@ -1,0 +1,16 @@
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\bin\Debug\fabFiveProject.exe.config
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\bin\Debug\fabFiveProject.exe
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\bin\Debug\fabFiveProject.pdb
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.csprojAssemblyReference.cache
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.addNewCourse.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.addNewStudent.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.enrollStudentInCourse.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.Form1.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.Properties.Resources.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.showStudentCourseSchedule.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.showStudentsInCourse.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.testingDatabase.resources
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.csproj.GenerateResource.cache
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.csproj.CoreCompileInputs.cache
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.exe
+D:\School\Advanced.Agile\fabFiveProject\fabFiveProject\obj\Debug\fabFiveProject.pdb
